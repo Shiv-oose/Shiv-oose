@@ -1,16 +1,71 @@
-## Hi there 👋
+<!-- shivam rastogi GitHub Profile README -->
 
-<!--
-**Shiv-oose/Shiv-oose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm SHIVAM RASTOGI </h1>
 
-Here are some ideas to get you started:
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Passionate+Coder+%7C+Problem+Solver;Always+Learning+%7C+Team+Player+%7C+Leader" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 About Me  
+- 🎓 CSE Student passionate about **coding, problem-solving & innovation**  
+- 🌱 Currently learning **Data Structures, Algorithms & Python**  
+- 💻 Exploring **C, C++, Java, and Web Development**  
+- 🤝 Open to collaborating on **open-source projects & hackathons**  
+- ⚡ Fun fact: I enjoy **public speaking & leadership** as much as programming  
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadabmanjar&show_icons=true&theme=radical" height="180em" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrastogi&layout=compact&theme=radical" height="180em](https://github.com/Shiv-oose/FACULTY-PROFESSIONAL-DASHBOARD.git)" />
+</p>
+
+---
+
+### 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivamrastogi&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### ✨ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+### 🌍 Connect With Me 
+<p align="center">
+  <a href="[https://github.com/shivamrastogi](https://github.com/Shiv-oose)" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="[https://www.linkedin.com/in/shivam-rastogi-a047aa231/](https://www.linkedin.com/in/shivam-rastogi-202786330/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shivamrastogi2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
