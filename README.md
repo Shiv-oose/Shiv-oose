@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="[https://www.linkedin.com/in/shivam-rastogi-a047aa231/](https://www.linkedin.com/in/shivam-rastogi-202786330/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/shivam-rastogi-202786330/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shivamrastogi2006@gmail.com">
